@@ -1,0 +1,14 @@
+.coluna{
+    float: left;
+    width: 33.33%;
+}
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  h1{
+    font-size: 3;
+            color: crimson;
+            text-align: center;
+  }
